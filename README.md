@@ -39,7 +39,7 @@ To build the Folder Structure Creator application as a standalone Windows execut
 
 1. **Run the Application:**
 
-   - Double-click the executable file (`folder_structure_creator.exe`) to launch the application.
+   - Double-click the executable file (`doit.exe`) to launch the application.
 
 2. **Enter Directory Path:**
 
