@@ -14,7 +14,7 @@ To use the Folder Structure Creator application, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/folder-structure-creator.git
+   git clone https://github.com/wolverinex24/foldIT.git
    ```
 
 ## Building the Application
