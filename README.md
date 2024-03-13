@@ -19,6 +19,14 @@ To use the Folder Structure Creator application, follow these steps:
 
 ## Building the Application
 
+First before doing any thing 
+## Install cx_Freeze:
+
+you can do so using pip:
+```bash
+pip install cx-Freeze
+```
+
 To build the Folder Structure Creator application as a standalone Windows executable, follow these steps:
 
 1. **Run setup.py:**
